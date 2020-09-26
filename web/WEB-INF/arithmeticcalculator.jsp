@@ -26,6 +26,7 @@
             <input type="submit" name="symbol" value="*">
             <input type="submit" name="symbol" value="%">
             <br>
+            <p>Result ${result}</p>
             <a href="age">Age Calculator</a>
         </form>
         
